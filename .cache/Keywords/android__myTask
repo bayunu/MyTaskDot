@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "7FA6E6B2F66E4156E57A88948BB1F1BC",
+  "keywordClasses": [
+    {
+      "name": "android.MyTask",
+      "keywordMethods": [
+        {
+          "name": "openMyTask",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
